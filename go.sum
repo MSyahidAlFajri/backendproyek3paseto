@@ -1,0 +1,8 @@
+aidanwoods.dev/go-paseto v1.2.0 h1:rHmD2Q+cM9CQ1Ia94WT9YZBmMettu2mLyxtw+bg8ZeM=
+aidanwoods.dev/go-paseto v1.2.0/go.mod h1:r9pU9VBs5sn5WO5mOeYSOQTrTDSyCnbVT/dA7QTFAdc=
+github.com/whatsauth/watoken v0.1.2 h1:dGSEFjP2I+BRbLIq84mJ6Rwgx7B/OwBpKtZJr4dQSOs=
+github.com/whatsauth/watoken v0.1.2/go.mod h1:Go11cZ4yTib8jo0oERgy6ufeGiELU88GnX5Upx29ZEc=
+golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa h1:zuSxTR4o9y82ebqCUJYNGJbGPo6sKVl54f/TVDObg1c=
+golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
+golang.org/x/sys v0.2.0 h1:ljd4t30dBnAvMZaQCevtY0xLLD0A+bRZXbgLMLU1F/A=
+golang.org/x/sys v0.2.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
